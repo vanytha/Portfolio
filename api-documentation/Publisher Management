@@ -43,3 +43,25 @@ Creates a new publisher in the system.
   "country_uuid": "11111111-2222-3333-4444-555555555555",
   "site_uuid": "66666666-7777-8888-9999-000000000000"
 }
+### Response Body
+
+| Field   | Data Type | Description                          |
+|---------|----------|--------------------------------------|
+| status  | boolean  | `true` if success, `false` otherwise |
+| message | string   | Status message                       |
+| data    | null     | Always `null` for this endpoint      |
+### Example Success Response
+
+```json
+{
+  "status": true,
+  "message": "Publisher created successfully",
+  "data": null
+} ```
+### Common Error Responses
+
+| HTTP Code | Description                  |
+|-----------|------------------------------|
+| 400       | Invalid request parameters   |
+| 401       | Unauthorized                 |
+| 500       | Internal server error        |
