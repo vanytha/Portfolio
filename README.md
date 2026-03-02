@@ -12,3 +12,6 @@ _Business Analyst and Technical Writer with over 15 years of experience supporti
 > Technical Product Documentation
 
 ## Portfolio Samples
+API Document 
+-
+-  [Publisher Management API](api-documentation/publisher-management-api.md)
