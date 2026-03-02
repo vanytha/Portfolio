@@ -1,0 +1,45 @@
+
+## 1. Add Publisher
+
+Creates a new publisher in the system.
+
+**URL:** `{BASE_URL}/api/{VERSION}/publishers`  
+**Method:** `POST`  
+**Return Type:** `JSON`
+
+---
+
+### Headers
+
+| Header        | Value                           |
+|---------------|---------------------------------|
+| Authorization | `Bearer <authentication_token>` |
+
+---
+
+### Request Parameters
+
+| Name           | Data Type | Required | Description                |
+|----------------|----------|----------|----------------------------|
+| publisher_name | string   | Yes      | Name of the publisher      |
+| address1       | string   | No       | Address line 1             |
+| address2       | string   | No       | Address line 2             |
+| email          | string   | No       | Email ID                   |
+| contact_number | string   | No       | Contact number             |
+| country_uuid   | string   | Yes      | UUID of the country        |
+| site_uuid      | string   | Yes      | UUID of the site           |
+
+---
+
+### Example Request
+
+```json
+{
+  "publisher_name": "ABC Publications",
+  "address1": "123 Main Street",
+  "address2": "Suite 400",
+  "email": "contact@abcpublications.com",
+  "contact_number": "+1-555-123-4567",
+  "country_uuid": "11111111-2222-3333-4444-555555555555",
+  "site_uuid": "66666666-7777-8888-9999-000000000000"
+}
