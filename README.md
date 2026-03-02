@@ -14,4 +14,7 @@ _Business Analyst and Technical Writer with over 15 years of experience supporti
 ## Portfolio Samples
 API Document 
 -
--  [Publisher Management API](api-documentation/publisher-management-api.md)
+### API Documentation
+- [Authentication API](api-documentation/authentication-api.md)
+- [Publisher Management API](api-documentation/publisher-management-api.md)
+
