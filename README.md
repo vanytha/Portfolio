@@ -12,9 +12,8 @@ _Business Analyst and Technical Writer with over 15 years of experience supporti
 > Technical Product Documentation
 
 ## Portfolio Samples
-API Document 
--
-### API Documentation
-- [Authentication API](api-documentation/Access-and-Authentication.md)
-- [Publisher Management API](api-documentation/publisher-management-api.md)
+- ### API Documentation
+   - [Authentication API](api-documentation/Access-and-Authentication.md)
+   - [Publisher Management API](api-documentation/publisher-management-api.md)
 
+ 
