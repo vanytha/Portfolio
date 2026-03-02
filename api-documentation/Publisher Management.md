@@ -105,39 +105,7 @@ Retrieves details of a specific publisher.
 
 ---
 
-# 3. Update Publisher
-
-Updates an existing publisher record.
-
-**URL:** `{BASE_URL}/api/{VERSION}/publishers/{publisher_id}`  
-**Method:** `PUT`
-
----
-
-### Example Request
-
-```json
-{
-  "publisher_name": "ABC Publications Pvt Ltd",
-  "email": "support@abcpublications.com"
-}
-```
-
----
-
-### Example Success Response
-
-```json
-{
-  "status": true,
-  "message": "Publisher updated successfully",
-  "data": null
-}
-```
-
----
-
-# 4. Delete Publisher
+# 3. Delete Publisher
 
 Deletes a publisher from the system.
 
