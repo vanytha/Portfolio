@@ -10,3 +10,5 @@ _Business Analyst and Technical Writer with over 15 years of experience supporti
 > Knowledge Base & Customer-Facing Content
 
 > Technical Product Documentation
+
+## Portfolio Samples
