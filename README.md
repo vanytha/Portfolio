@@ -15,6 +15,6 @@ _Business Analyst and Technical Writer with over 15 years of experience supporti
 - ### API Documentation
    - [Authentication API](api-documentation/Access-and-Authentication.md)
    - [Publisher Management API](api-documentation/Publisher-Management.md)
-   - [Payment Authorization Workflow in SaaS Platform] (api-documentation/Workflow-Case-Study.md)
+   - [Payment Authorization Workflow in SaaS Platform] (main/api-documentation/Workflow-Case-Study.md))
 
  
