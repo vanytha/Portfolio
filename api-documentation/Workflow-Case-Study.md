@@ -4,7 +4,7 @@ This document explains the end-to-end flow of a **payment authorization** in a t
 
 ---
 <p align="center">
-  <img src="images/payment-authorization-flow.png" alt="Payment Authorization Flow" width="700"/>
+  <img width="1036" height="720" alt="payment process" src="https://github.com/user-attachments/assets/7107f47e-2d4a-433d-b469-431c6b453716" />
 </p>
 ## 1) User Input
 
