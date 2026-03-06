@@ -125,8 +125,3 @@ Using **XEditPro Publishing Suite**, the production team was able to complete th
 
 ---
 
-## Reference
-
-For the full case study and additional publishing solutions:
-
-🔗 https://diacritech.com/case-studies
