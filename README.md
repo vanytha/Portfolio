@@ -20,7 +20,7 @@ _Business Analyst and Technical Writer with over 15 years of experience supporti
     - [Import Wrapper System Workflow](System-Architecture/Data-Science-Project.md)
     - [Data Science Project](System-Architecture/Data-Science-Project.md)
 - ### Case Studies
-     - [Publishing Suite]()
+     - [Publishing Suite](Case-Studies/xeditpro-publishing-suite.md)
 - ### Blogs
     - [Exploring the Periotic Table with Augmented Reality](Blogs/Exploring-the-Periodic-Table.md)
     - [Virtual Reality App](Blogs/Virtual-Reality-App.md)
