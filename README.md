@@ -23,6 +23,6 @@ _Business Analyst and Technical Writer with over 15 years of experience supporti
      - [Publishing Suite]()
 - ### Blogs
     - [Exploring the Periotic Table with Augmented Reality](Blogs/Exploring-the-Periodic-Table.md)
-    - [Virtual Reality App]()
+    - [Virtual Reality App](Blogs/Virtual-Reality-App.md)
 - ### Knowledge Base Samples
     - [Spend Analytics User Guide](Knowledge-Base-Samples/Spend-Analytics.md)
