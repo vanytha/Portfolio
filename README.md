@@ -20,6 +20,9 @@ _Business Analyst and Technical Writer with over 15 years of experience supporti
     - [Import Wrapper System Workflow](System-Architecture/Data-Science-Project.md)
     - [Data Science Project](System-Architecture/Data-Science-Project.md)
 - ### Case Studies
+     - [Publishing Suite]()
 - ### Blogs
+    - [Exploring the Periotic Table with Augmented Reality]()
+    - [Virtual Reality App]()
 - ### Knowledge Base Samples
-    - [Spend Analytics User Guide]( )
+    - [Spend Analytics User Guide](Knowledge-Base-Samples/Spend-Analytics.md)
