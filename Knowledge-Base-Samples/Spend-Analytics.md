@@ -77,3 +77,101 @@ The **Products Setup** page shows the products that were added earlier. To add a
 - **Primary Spend Sub Category** – Select the primary spend subcategory applicable for this product.
 
 - **Cyber Coverage Capabilities** – Click the options to map appropriate product capabilities to asset classes.
+> It is important to add all the security products that you are currently using to get a complete picture of your organization's spend in the dashboard.
+
+### STEP 3: Define Spend
+
+This involves the setup of **Contracts, Cost Pools, and Spend Plan**.
+
+---
+
+### I. Adding Contracts
+
+This is a critical component in spend setup, as it has a direct impact on spend analytics. Adding vendor and product contracts allows the **Spend App** to determine the estimated vs. committed spend for a particular product. The Spend App also allows you to add more than one contract for a product.
+
+**Key fields are defined below:**
+
+- **Contract Name** – Enter the name of the contract.
+
+- **Start Date / End Date** – Start and end dates for your contract.  
+  The **End Date** is not applicable for perpetual contracts.
+
+- **Auto Renew** – Check this to indicate that the contract is set up for automatic renewal.
+
+- **Cancel Renewal By** – The date by which you can cancel the automatic renewal of your subscription.
+
+- **Renewal Term in Months** – The period (in months) for which the product will auto-renew after the current subscription term expires.
+
+- **Internal Contact** – Primary contact person for this contract within the organization.
+
+- **Vendor Contact** – Primary vendor contact for this contract.
+
+- **Organization / Team** – Organization or team for which the contract is created.
+
+- **Select Contract Spend Type** – Click an option to enter spend details at the contract level **(a)** or itemized spend **(b)**.
+
+   #### a) Contract with **Term Contract Spend**
+
+   A contract with the **Term Contract Spend** option will have committed and estimated **CAPEX** and **OPEX** values.
+
+   - **Term Committed CAPEX Spend** – Capital expense committed as per the contract’s terms.
+
+   - **Term Committed OPEX Spend** – Operating expense committed as per the contract’s terms.
+
+   - **Estimated Overage CAPEX Spend** – Estimated capital expense above the amount committed in the contract’s terms.
+
+   - **Estimated Overage OPEX Spend** – Estimated operating expense above the amount committed in the contract’s terms.
+
+  #### b) Contract with **Spend per Item**
+
+  A contract with **Spend per Item** can have one of the following license types for items:
+
+  - **One-Time (Perpetual)** – This type of itemization allows users to define total spend and a depreciation schedule, if any, for the contract item.
+
+  - **Subscription** – Subscription-based licensing allows users to define various combinations of license types and **capacity & spend options**.
+
+Click **Save** after uploading the essential financial documents.
+
+### II. Defining Cost Pools
+
+**Cost Pools** are used to segregate product spend across multiple groups for accounting purposes. Cost Pools allow users to define where and how they are actually spending their security budgets.
+
+Cost Pools can be defined based on **Location, Environment, Initiatives**, or any other logical entity where a part of the cost is apportioned.
+
+For example, one can define **“Environment”** as a Cost Pool with **“Development,” “Staging,” and “Production”** as members to correctly reflect which part of the security budget is spent on which assets.
+
+Cost Pools defined once can be used globally across products. This implies that **Cost Pool names should be unique and not repeated**.
+<img width="626" height="263" alt="Picture3" src="https://github.com/user-attachments/assets/e29bc6a4-1e1f-4499-abff-775498006d5a" />
+While adding a new **Cost Pool**, specify the following:
+
+- **Cost Pool Name** – Financial spend categories used to group and classify spend (e.g., Department, Location, Environment).
+
+- **Member Name** – Logical groupings where part of the overall spend is utilized.  
+  *Example:* A **Department** Cost Pool could have **Engineering** and **Marketing** as members.
+
+- **Percentage** – The percentage of spend allocated to the member.
+### III. Define Your Budget or Spend Plan
+
+Defining the **Spend Plan** is the key to unlocking many of the **Spend App** features.
+
+The **Spend Plan** allows you to enter your actual spend data based on the frequency you have chosen (**Monthly or Quarterly**). The entire **Spend Analytics Dashboard** is based on these numbers. Take utmost care to specify accurate numbers so that they are correctly reflected in the **Spend Analytics Dashboard**.
+
+We have modeled the entry of spend data exactly like **Excel**, and we support features such as **copy and paste** and **drag-to-fill data**.
+<img width="979" height="401" alt="image" src="https://github.com/user-attachments/assets/73f39852-6e28-4aa8-8ca8-56ee8d7b93ae" />
+
+The expense amounts are separated into **CAPEX** and **OPEX** and are divided across months/quarters based on the **Financial Data Frequency** (**Monthly / Quarterly**) specified in the account setup.
+
+> **Note:** The **CAPEX** column is not shown by default. It can be included by selecting it from the **Select Columns** dropdown.
+
+- **CAPEX** – Anything that is bought or sold as a unit or item is considered CAPEX. It is an outright purchase since it is fully paid for at once, with complete ownership rights upon payment.  
+  *Examples:* Server, Hardware Appliance, Firewall, MS Office, Operating System.
+
+- **OPEX** – OPEX refers to expenses incurred when entering into a service agreement that involves a subscription or service fee. In this case, you do not own the software; you simply use it.  
+  *Example:* Office 365.
+
+The **Estimate** fields are populated from the contract details specified earlier (if the **Data Source** is **Contract**).
+
+Based on the **Financial Data Frequency** (**Monthly / Quarterly** as specified in account setup), you need to input the **actual CAPEX and OPEX values for all products**.
+
+Products can be added in between using the **Add after selected row** option or at the end using the **Add Row** option.
+
