@@ -1,4 +1,5 @@
 # ELearning with Augmented and Virtual Reality
+![Banner](https://github.com/user-attachments/assets/534a7ba7-8bb5-47ad-9f38-abdbdf112d3e)
 
 **Original Article:**  
 https://diacritech.com/blog/learn-periodic-table-with-augmented-reality/
@@ -8,6 +9,7 @@ What inspires a student to learn a subject and study it? There has to be a bette
 ## Get more out of learning with Augmented and Virtual Reality apps!
 
 How often have we heard Albert Einstein’s quote: *“Learning is an experience. Everything else is just information.”* True to this fact, AR/VR-based applications are primed to change the long-term perspective of how people think, reason, and feel about any subject by providing mind-blowing experiences. They are developed on the basis that behind any curriculum is a set of principles, and the way in which it is presented has a significant effect on the learning outcomes.
+
 
 For example, the modern periodic table has elements grouped based on similarity in characteristics. Learning the periodic table, the physical and chemical properties of the elements, and their application in day-to-day life requires time and effort. However, it is something students need to know and understand to resolve chemical equations in the near future. Reality technology–based apps provide a medium to impart knowledge in a way that enables students to retain information longer and gain a firmer understanding of the concepts.
 
