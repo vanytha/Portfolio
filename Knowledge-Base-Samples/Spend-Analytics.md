@@ -35,7 +35,7 @@ Follow these steps in sequential order to get started with the **Spend Analytics
 Setting up your account is a simple process. **Account Setup** can be found under **Settings → Account** after you log in to **Spend Analytics**.
 
 We require only basic information about your company to get you started, as shown below.
-<img width="626" height="242" alt="Picture1" src="https://github.com/user-attachments/assets/a78705ca-bb10-4457-8e17-5e3fe1fde16b" />
+ <img width="979" height="379" alt="image" src="https://github.com/user-attachments/assets/fec270f2-be91-46ef-b8e4-4d733cb1effa" />
 
 - **Customer Name** – Name of your company.
 
@@ -54,9 +54,7 @@ We require only basic information about your company to get you started, as show
 The next step in setting up **Spend Analytics** is choosing your security vendors and products.
 
 The **Products Setup** page shows the products that were added earlier. To add a new product, simply use the **Add Product** option after selecting a vendor, complete a simple product entry form, and your product will be added to the **Spend Dashboard**.
-
-<img width="626" height="251" alt="Picture2" src="https://github.com/user-attachments/assets/9be94a30-e6db-4830-b35b-75ad802a4ffc" />
-
+<img width="979" height="393" alt="image" src="https://github.com/user-attachments/assets/e1ce2206-51af-415c-8736-618d91f269bb" />
 - **Owner** – Enter the primary contact details for this product.
 
 - **Department** – Select the department or organizational unit where this product will be primarily used.
@@ -82,8 +80,6 @@ The **Products Setup** page shows the products that were added earlier. To add a
 ### STEP 3: Define Spend
 
 This involves the setup of **Contracts, Cost Pools, and Spend Plan**.
-
----
 
 ### I. Adding Contracts
 
@@ -141,7 +137,7 @@ Cost Pools can be defined based on **Location, Environment, Initiatives**, or an
 For example, one can define **“Environment”** as a Cost Pool with **“Development,” “Staging,” and “Production”** as members to correctly reflect which part of the security budget is spent on which assets.
 
 Cost Pools defined once can be used globally across products. This implies that **Cost Pool names should be unique and not repeated**.
-<img width="626" height="263" alt="Picture3" src="https://github.com/user-attachments/assets/e29bc6a4-1e1f-4499-abff-775498006d5a" />
+ <img width="979" height="412" alt="image" src="https://github.com/user-attachments/assets/3912e494-333f-4c66-b50c-68cb46cc4aa4" />
 While adding a new **Cost Pool**, specify the following:
 
 - **Cost Pool Name** – Financial spend categories used to group and classify spend (e.g., Department, Location, Environment).
