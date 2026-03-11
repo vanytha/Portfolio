@@ -1,4 +1,4 @@
-# XEditPro Publishing Suite
+# Reducing Textbook Production Time by 45 Days Using XEditPro Publishing Suite
 
 > **Source Article:**  
 > https://diacritech.com/case-studies
