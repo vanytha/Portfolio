@@ -26,7 +26,7 @@ _Business Analyst and Technical Writer with over 15 years of experience supporti
     - [How to Automate Data Transfer from Any SaaS Tool to Your CRM](Blogs/Automate-Data-Transfer-from-SaaS-Tool-to-CRM.md)
     - [Exploring the Periodic Table with Augmented Reality](Blogs/Exploring-the-Periodic-Table.md)
     - [Equation Editing — Powered by LaTeX, Simplified with WYSIWYG](Blogs/XEditPro-Equation-Editing.md)
-    - [Virtual Reality App](Blogs/Virtual-Reality-App.md)
+    - [How Virtual Reality is Transforming Car Retail](Blogs/Virtual-Reality-App.md)
 - ### Knowledge Base Samples
     - [Spend Analytics User Guide](Knowledge-Base-Samples/Spend-Analytics.md)
     - [Database Replication](Knowledge-Base-Samples/Database-Replication.md)
