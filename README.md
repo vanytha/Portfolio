@@ -22,8 +22,9 @@ _Business Analyst and Technical Writer with over 15 years of experience supporti
 - ### Case Studies
      - [Publishing Suite](Case-Studies/xeditpro-publishing-suite.md)
 - ### Blogs
-    - [How to Automate Data Transfer from Any SaaS Tool to Your CRM]()
+    - [How to Automate Data Transfer from Any SaaS Tool to Your CRM](Blogs/Automate-Data-Transfer-from-SaaS-Tool-to-CRM.md)
     - [Exploring the Periotic Table with Augmented Reality](Blogs/Exploring-the-Periodic-Table.md)
     - [Virtual Reality App](Blogs/Virtual-Reality-App.md)
 - ### Knowledge Base Samples
     - [Spend Analytics User Guide](Knowledge-Base-Samples/Spend-Analytics.md)
+    - [Databse Replication]()
