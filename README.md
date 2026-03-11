@@ -20,6 +20,7 @@ _Business Analyst and Technical Writer with over 15 years of experience supporti
     - [Import Wrapper System Workflow](System-Architecture/Data-Science-Project.md)
     - [Data Science Project](System-Architecture/Data-Science-Project.md)
 - ### Case Studies
+     - [Resolving Time Zone Issues in CXS Platform]( )
      - [Publishing Suite](Case-Studies/xeditpro-publishing-suite.md)
 - ### Blogs
     - [How to Automate Data Transfer from Any SaaS Tool to Your CRM](Blogs/Automate-Data-Transfer-from-SaaS-Tool-to-CRM.md)
