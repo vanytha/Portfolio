@@ -28,5 +28,5 @@ _Business Analyst and Technical Writer with over 15 years of experience supporti
     - [Virtual Reality App](Blogs/Virtual-Reality-App.md)
 - ### Knowledge Base Samples
     - [Spend Analytics User Guide](Knowledge-Base-Samples/Spend-Analytics.md)
-    - [Database Replication]()
+    - [Database Replication](Knowledge-Base-Samples/Database-Replication.md)
     - [Mobile Web Accessibility Testing ](Knowledge-Base-Samples/Mobile-Web-Accessibility-Testing.md)
