@@ -21,7 +21,7 @@ _Business Analyst and Technical Writer with over 15 years of experience supporti
     - [Data Science Project](System-Architecture/Data-Science-Project.md)
 - ### Case Studies
      - [Resolving Time Zone Issues in CXS Platform](Case-Studies/Resolving-Time-Zone-Issues.md)
-     - [Publishing Suite](Case-Studies/xeditpro-publishing-suite.md)
+     - [Reducing Textbook Production Time by 45 Days Using XEditPro Publishing Suite](Case-Studies/xeditpro-publishing-suite.md)
 - ### Blogs
     - [How to Automate Data Transfer from Any SaaS Tool to Your CRM](Blogs/Automate-Data-Transfer-from-SaaS-Tool-to-CRM.md)
     - [Exploring the Periodic Table with Augmented Reality](Blogs/Exploring-the-Periodic-Table.md)
