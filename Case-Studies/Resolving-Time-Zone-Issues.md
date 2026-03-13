@@ -45,6 +45,7 @@ When clicking on a user profile and viewing **My Wall**, the following dates sho
 
 - Hire date
 - Birthday
+  
 <img width="840" height="243" alt="image" src="https://github.com/user-attachments/assets/bea61827-a3d4-414a-8968-48357132029e" />
 
 These values must reflect the exact date saved in the user profile.
